@@ -1,0 +1,105 @@
+pgv_pvid=2996906107; fqm_pvqid=56ccca6b-4f03-438b-8b56-1acd0cdd2d95; fqm_sessionid=a3330a66-ddcb-406c-828d-ce2700069b2a; pgv_info=ssid=s2082567398; ts_last=y.qq.com/; ts_uid=4878501782; _qpsvr_localtk=0.7786394100868814; RK=OR9dk87Nbz; ptcz=e6c6868f7e82622d8ab26f7330c5ab4f7306c2d89a361df603e998301806a53f; login_type=1; psrf_qqaccess_token= 024FA396F7FE23D960C440EB52C5ECB4; euin=oiSkoKnq7iok; psrf_qqopenid=18C5895C414899587510E9D0AFA38A8B; wxopenid=; wxrefresh_token=; psrf_qqrefresh_token=12C09DC7C6D457A38DB17C00D605B33E; tmeLoginType=2; psrf_qqunionid=C50234E24055FA8E075BF5AC7359AAF0; psrf_access_token_expiresAt=1696828930; qm_keyst=Q_H_L_57APshf6JBa-CEgaHec4SM2hyzDQv_YUSHYRTLnkhYQ_hd_mCaBKKUA; wxunionid=; psrf_musickey_createtime=1689052930; qm_keyst=Q_H_L_57APshf6JBa-CEgaHec4SM2hyzDQv_YUSHYRTLnkhYQ_hd_mCaBKKUA; uin=375109735; qqmusic_key=Q_H_L_57APshf6JBa-CEgaHec4SM2hyzDQv_YUSHYRTLnkhYQ_hd_mCaBKKUA
+
+电脑客户端
+https://c6.y.qq.com/base/fcgi-bin/u?__=exKFZ
+
+手机客户端
+https://c6.y.qq.com/base/fcgi-bin/u?__=qurRgM5KWeK7
+
+网页
+https://y.qq.com/n/ryqq/songDetail/0020UhY82Uhzvq
+
+手机网页
+https://i.y.qq.com/v8/playsong.html?songmid=0020UhY82Uhzvq&ADTAG=myqq&from=myqq&channel=10007100
+
+点歌机接收弹幕原始消息
+17:50:28 : 点歌姬 {
+  "cmd": "DANMU_MSG",
+  "dm_v2": "CiI1NjBiMjIzN2FlYTcxNzc3ZjFlODYxNjE3NzIxMDE3YTg5EAEYGSD///8HKghhZDBjNjdlMTIN54K55q2MIOa1i+ivlTiYv4nMlDFIke65pQZiAIoBAJoBEAoIQjIwMjc5QzcQ5O65pQaiAaABCMeBrisSDEVpZ2VlbuacrOW+gSJKaHR0cHM6Ly9pMS5oZHNsYi5jb20vYmZzL2ZhY2UvYThjNmQyNmI1Y2MxZWRhNzIzMTVkMGYzN2QwYWNhMDZiMTljZDcyZC5qcGc4kE5AAVohCAsSCeaRuOmxvOmcliCm+bUEMMCBgwY4wIGDBkDAgYMGYhEIFBDagIcDGgY+NTAwMDAgAWoAcgB6AKoBFgispcemBBIJ5oG26b6Z6ZyWGNazrwI=",
+  "info": [
+    [
+      0,
+      1,
+      25,
+      16777215,
+      1689155428248,
+      1689155345,
+      0,
+      "ad0c67e1",
+      0,
+      0,
+      0,
+      "",
+      0,
+      "{}",
+      "{}",
+      {
+        "extra": "{\"send_from_me\":false,\"mode\":0,\"color\":16777215,\"dm_type\":0,\"font_size\":25,\"player_mode\":1,\"show_player_type\":0,\"content\":\"点歌 测试\",\"user_hash\":\"2903271393\",\"emoticon_unique\":\"\",\"bulge_display\":0,\"recommend_score\":8,\"main_state_dm_color\":\"\",\"objective_state_dm_color\":\"\",\"direction\":0,\"pk_direction\":0,\"quartet_direction\":0,\"anniversary_crowd\":0,\"yeah_space_type\":\"\",\"yeah_space_url\":\"\",\"jump_to_url\":\"\",\"space_type\":\"\",\"space_url\":\"\",\"animation\":{},\"emots\":null,\"is_audited\":false,\"id_str\":\"560b2237aea71777f1e861617721017a89\",\"icon\":null}",
+        "mode": 0,
+        "show_player_type": 0
+      },
+      {
+        "activity_identity": "",
+        "activity_source": 0,
+        "not_show": 0
+      },
+      0
+    ],
+    "点歌 测试",
+    [
+      90931399,
+      "Eigeen本征",
+      0,
+      0,
+      0,
+      10000,
+      1,
+      ""
+    ],
+    [
+      11,
+      "摸鱼霖",
+      "恶龙霖",
+      23069409,
+      9272486,
+      "",
+      0,
+      12632256,
+      12632256,
+      12632256,
+      0,
+      0,
+      1154601644
+    ],
+    [
+      20,
+      0,
+      6406234,
+      ">50000",
+      1
+    ],
+    [
+      "",
+      ""
+    ],
+    0,
+    0,
+    null,
+    {
+      "ct": "B20279C7",
+      "ts": 1689155428
+    },
+    0,
+    0,
+    null,
+    null,
+    0,
+    210,
+    [
+      0
+    ]
+  ],
+  "is_report": false,
+  "msg_id": "315384581852673",
+  "send_time": 1689155428351
+}
