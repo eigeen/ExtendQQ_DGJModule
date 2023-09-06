@@ -1,9 +1,18 @@
-插件功能
+# DGJ_v3 QQ音乐拓展模块
+
+基于 [网易云音乐点歌机 https://github.com/Executor-Cheng/ExtendNetease_DGJModule](https://github.com/Executor-Cheng/ExtendNetease_DGJModule) 修改
+
+## 插件简介
 ---
-- 不再请求lwl12的api，改为本地发送请求，减轻api的压力
-- 允许用户添加空闲歌单
-- 允许用户登录网易云账号。若账号拥有音乐包/会员，点歌品质最高可至320Kbps
+- 本地请求QQ音乐。
+- 允许用户通过Cookie手动登录QQ音乐账号。
 
-由于C#没有RSA_NO_PADDING这种填充方法,插件借助了BouncyCastle进行加密
+> 注：Cookie可在浏览器登录QQ音乐后，通过F12控制台复制获取。
+>
+> QQ音乐Cookie有效期大致为24小时，建议每天更换一次。
 
-项目的接口及加密方法均参照 [Binaryify的NeteaseCloudMusicApi项目](https://github.com/Binaryify/NeteaseCloudMusicApi) 进行翻译
+## 插件功能
+- 通过歌曲ID点歌。支持QQ音乐手机客户端，网页端，电脑客户端三种不同的歌曲ID格式。
+- 通过歌曲名点歌。本质是通过搜索结果点第一首歌。
+
+仅提供基础的点歌功能，进阶功能例如切换音质，导入歌单，账号密码登录等暂未处理。
